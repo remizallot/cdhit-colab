@@ -8,6 +8,14 @@ authors:
     orcid: "https://orcid.org/0000-0002-7317-1578"
     affiliation: "Manchester Metropolitan University"
 repository-code: "https://github.com/remizallot/cdhit-colab"
+doi: "10.5281/zenodo.23503573"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23503573"
+    description: "Concept DOI - always resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.23503574"
+    description: "DOI for version v1.0.0"
 abstract: >-
   A Google Colab notebook that builds CD-HIT from source and runs it in the
   browser, with no local installation. Provided because the CD-HIT web server

@@ -1,6 +1,7 @@
 # CD-HIT in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remizallot/cdhit-colab/blob/main/CD-HIT_Colab.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23503573.svg)](https://doi.org/10.5281/zenodo.23503573)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Run **CD-HIT** in the browser, with no local installation.
@@ -67,6 +68,14 @@ Please cite **CD-HIT** and, if the notebook was useful, this repository:
 > Fu L, Niu B, Zhu Z, Wu S, Li W. CD-HIT: accelerated for clustering the next-generation
 > sequencing data. *Bioinformatics* **28**, 3150–3152 (2012).
 > doi:10.1093/bioinformatics/bts565
+
+This notebook is archived on Zenodo:
+
+> Zallot R. *CD-HIT in Google Colab.* Zenodo. doi:[10.5281/zenodo.23503573](https://doi.org/10.5281/zenodo.23503573)
+
+That is the concept DOI and always resolves to the most recent version. To cite a specific
+release, use its own DOI — v1.0.0 is
+[10.5281/zenodo.23503574](https://doi.org/10.5281/zenodo.23503574).
 
 Citation metadata for this notebook is in [`CITATION.cff`](CITATION.cff).
 
