@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+title: "CD-HIT in Google Colab"
+message: "If you use this notebook, please cite it along with CD-HIT itself."
+type: software
+authors:
+  - family-names: Zallot
+    given-names: Rémi
+    orcid: "https://orcid.org/0000-0002-7317-1578"
+    affiliation: "Manchester Metropolitan University"
+repository-code: "https://github.com/remizallot/cdhit-colab"
+abstract: >-
+  A Google Colab notebook that builds CD-HIT from source and runs it in the
+  browser, with no local installation. Provided because the CD-HIT web server
+  has been unavailable since 2022. All parameters are Colab form fields, so a
+  saved notebook records exactly what was run, and each run writes a provenance
+  file recording the CD-HIT version, full command line, input checksum and
+  timestamp.
+keywords:
+  - CD-HIT
+  - sequence clustering
+  - bioinformatics
+  - Google Colab
+  - reproducibility
+license: MIT
+version: 1.0.0
+date-released: "2026-10-20"
+references:
+  - type: article
+    authors:
+      - family-names: Li
+        given-names: Weizhong
+      - family-names: Godzik
+        given-names: Adam
+    title: "Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences"
+    journal: Bioinformatics
+    volume: 22
+    start: 1658
+    end: 1659
+    year: 2006
+    doi: 10.1093/bioinformatics/btl158
+  - type: article
+    authors:
+      - family-names: Fu
+        given-names: Limin
+      - family-names: Niu
+        given-names: Beifang
+      - family-names: Zhu
+        given-names: Zhengwei
+      - family-names: Wu
+        given-names: Sitao
+      - family-names: Li
+        given-names: Weizhong
+    title: "CD-HIT: accelerated for clustering the next-generation sequencing data"
+    journal: Bioinformatics
+    volume: 28
+    start: 3150
+    end: 3152
+    year: 2012
+    doi: 10.1093/bioinformatics/bts565
